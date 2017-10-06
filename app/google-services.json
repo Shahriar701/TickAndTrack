@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "18867941481",
+    "firebase_url": "https://tracker-5a366.firebaseio.com",
+    "project_id": "tracker-5a366",
+    "storage_bucket": "tracker-5a366.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18867941481:android:2a3ca2b00bfcf04a",
+        "android_client_info": {
+          "package_name": "com.example.dragonsage.tickandtrack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18867941481-p6ufs04rohdqsvbck4k2rhrl6el572s3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC99X1uthRbOB6EPSxNrpzffuDyMAua_KU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
